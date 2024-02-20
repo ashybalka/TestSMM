@@ -7,6 +7,8 @@ UserSettings/
 Logs/
 ProjectSettings/
 Packages/
+Assembly-CSharp.csproj
+Assembly-CSharp.Player.csproj
 Unity.2D.Animation.Editor.csproj
 Unity.2D.Animation.Runtime.csproj
 Unity.2D.Animation.Runtime.Player.csproj
